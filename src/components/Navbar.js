@@ -11,10 +11,10 @@ const navbar = ()=>{
            
             <ul className="navbar-nav ml-auto">
                 <li className="nav-item">
-                <a className="nav-link" href="/">Cart</a>
+                <a className="nav-link" href="/cart">Cart</a>
                 </li>
                 <li className="nav-item">
-                <a className="nav-link" href="/">Sign In</a>
+                <a className="nav-link" href="/signin">Sign In</a>
                 </li>
                
             </ul>

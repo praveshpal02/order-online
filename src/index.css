@@ -42,3 +42,15 @@ code {
     padding: 15px;
     border-radius: 10px;
 }
+.pd-sec {
+  padding: 50px 0px;
+}.rating{
+  margin-bottom: 10px;
+}
+.rating span {
+  color: #f0c040;
+  margin: .1rem;
+}
+.rating span:last-child {
+  color: #444;
+}

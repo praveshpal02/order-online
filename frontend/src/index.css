@@ -17,6 +17,19 @@ code {
   align-items: center;
   justify-content: center;
 }
+.loading {
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.alert{
+  margin-top:20px;
+}
 
 .main-note .form-control {
   margin-bottom: 10px;
